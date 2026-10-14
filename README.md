@@ -15,26 +15,26 @@ A [Claude skill](https://platform.claude.com/docs/en/agents-and-tools/agent-skil
 
 | Culture | Locale | Region |
 |---|---|---|
-| United States | en-US | North America |
-| Mexico | es-MX | Latin America |
 | Brazil | pt-BR | South America |
-| United Kingdom | en-GB | Northern Europe |
+| China (mainland) | zh-CN | East Asia |
 | Finland | fi-FI | Northern Europe |
-| Netherlands | nl-NL | Western Europe |
 | France | fr-FR | Western Europe |
 | Germany | de-DE | Central Europe |
-| Poland | pl-PL | Central Europe |
-| Ukraine | uk-UA | Eastern Europe |
-| Türkiye | tr-TR | Southeast Europe / West Asia |
-| Israel | he-IL | Middle East |
-| Saudi Arabia | ar-SA | Middle East (Gulf) |
-| United Arab Emirates | ar-AE | Middle East (Gulf) |
-| Nigeria | en-NG | West Africa |
 | India | en-IN | South Asia |
-| China (mainland) | zh-CN | East Asia |
-| Japan | ja-JP | East Asia |
-| South Korea | ko-KR | East Asia |
 | Indonesia | id-ID | Southeast Asia |
+| Israel | he-IL | Middle East |
+| Japan | ja-JP | East Asia |
+| Mexico | es-MX | Latin America |
+| Netherlands | nl-NL | Western Europe |
+| Nigeria | en-NG | West Africa |
+| Poland | pl-PL | Central Europe |
+| Saudi Arabia | ar-SA | Middle East (Gulf) |
+| South Korea | ko-KR | East Asia |
+| Türkiye | tr-TR | Southeast Europe / West Asia |
+| Ukraine | uk-UA | Eastern Europe |
+| United Arab Emirates | ar-AE | Middle East (Gulf) |
+| United Kingdom | en-GB | Northern Europe |
+| United States | en-US | North America |
 | Generic international | - | Unknown or mixed audience |
 
 Dimension scores for every culture are in [references/cultures/index.md](references/cultures/index.md).
