@@ -173,7 +173,7 @@ If you don't name a culture, the skill asks which one before it starts.
 > > *Thank you very much for your support. I look forward to working with you.*
 > >
 > > *Kind regards,*
-> > *Oleksandr*
+> > *Frank*
 
 The skill also works the other way. Paste a message you received and ask what it really means, and it explains the hidden signals and suggests a reply.
 
