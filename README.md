@@ -8,33 +8,63 @@ A [Claude skill](https://platform.claude.com/docs/en/agents-and-tools/agent-skil
 
 - **Review and adapt.** Emails, chat messages, presentations, proposals, marketing copy, CVs, job ads, UI text. The skill detects the text type and the relationship with the reader, then returns a report (what changed, why, and lessons for next time) and an adapted copy in the same format as the original.
 - **Decode.** Explains what a message from someone in another culture most likely means and how to reply.
-- **20 cultures plus a generic profile.** See [Supported cultures](#supported-cultures). For any other culture, the skill offers the generic international profile or the nearest supported one.
+- **50 cultures plus a generic profile.** See [Supported cultures](#supported-cultures). For any other culture, the skill offers the generic international profile or the nearest supported one.
 - **Light on context.** Only `SKILL.md` loads when the skill starts. A culture profile is read only after the target culture is known.
 
 ## Supported cultures
 
 | Culture | Locale | Region |
 |---|---|---|
-| Brazil | pt-BR | South America |
-| China (mainland) | zh-CN | East Asia |
-| Finland | fi-FI | Northern Europe |
-| France | fr-FR | Western Europe |
-| Germany | de-DE | Central Europe |
-| India | en-IN | South Asia |
-| Indonesia | id-ID | Southeast Asia |
-| Israel | he-IL | Middle East |
-| Japan | ja-JP | East Asia |
-| Mexico | es-MX | Latin America |
-| Netherlands | nl-NL | Western Europe |
-| Nigeria | en-NG | West Africa |
-| Poland | pl-PL | Central Europe |
-| Saudi Arabia | ar-SA | Middle East (Gulf) |
-| South Korea | ko-KR | East Asia |
-| Türkiye | tr-TR | Southeast Europe / West Asia |
-| Ukraine | uk-UA | Eastern Europe |
-| United Arab Emirates | ar-AE | Middle East (Gulf) |
-| United Kingdom | en-GB | Northern Europe |
-| United States | en-US | North America |
+| Argentina | es-AR | Americas |
+| Australia | en-AU | Asia-Pacific |
+| Austria | de-AT | Europe |
+| Belgium | nl-BE | Europe |
+| Brazil | pt-BR | Americas |
+| Canada | en-CA | Americas |
+| Chile | es-CL | Americas |
+| China (mainland) | zh-CN | Asia-Pacific |
+| Colombia | es-CO | Americas |
+| Czechia | cs-CZ | Europe |
+| Denmark | da-DK | Europe |
+| Egypt | ar-EG | Middle East and North Africa |
+| Finland | fi-FI | Europe |
+| France | fr-FR | Europe |
+| Germany | de-DE | Europe |
+| Greece | el-GR | Europe |
+| India | en-IN | Asia-Pacific |
+| Indonesia | id-ID | Asia-Pacific |
+| Ireland | en-IE | Europe |
+| Israel | he-IL | Middle East and North Africa |
+| Italy | it-IT | Europe |
+| Japan | ja-JP | Asia-Pacific |
+| Kenya | en-KE | Sub-Saharan Africa |
+| Malaysia | ms-MY | Asia-Pacific |
+| Mexico | es-MX | Americas |
+| Morocco | ar-MA | Middle East and North Africa |
+| Netherlands | nl-NL | Europe |
+| Nigeria | en-NG | Sub-Saharan Africa |
+| Norway | nb-NO | Europe |
+| Pakistan | ur-PK | Asia-Pacific |
+| Philippines | en-PH | Asia-Pacific |
+| Poland | pl-PL | Europe |
+| Portugal | pt-PT | Europe |
+| Qatar | ar-QA | Middle East and North Africa |
+| Romania | ro-RO | Europe |
+| Saudi Arabia | ar-SA | Middle East and North Africa |
+| Singapore | en-SG | Asia-Pacific |
+| South Africa | en-ZA | Sub-Saharan Africa |
+| South Korea | ko-KR | Asia-Pacific |
+| Spain | es-ES | Europe |
+| Sweden | sv-SE | Europe |
+| Switzerland | de-CH | Europe |
+| Taiwan | zh-TW | Asia-Pacific |
+| Thailand | th-TH | Asia-Pacific |
+| Türkiye | tr-TR | Middle East and North Africa |
+| Ukraine | uk-UA | Europe |
+| United Arab Emirates | ar-AE | Middle East and North Africa |
+| United Kingdom | en-GB | Europe |
+| United States | en-US | Americas |
+| Vietnam | vi-VN | Asia-Pacific |
 | Generic international | - | Unknown or mixed audience |
 
 Dimension scores for every culture are in [references/cultures/index.md](references/cultures/index.md).
@@ -43,7 +73,16 @@ Dimension scores for every culture are in [references/cultures/index.md](referen
 
 The skill is installed straight from this repository: <https://github.com/Sovun/cultural-adapter>. You need [Git](https://git-scm.com/downloads).
 
-### Claude Code: all projects
+Claude Code loads skills from two folders:
+
+| Scope | Folder |
+|---|---|
+| All your projects | `~/.claude/skills/` |
+| One project (can be committed and shared with the team) | `.claude/skills/` in the project root |
+
+The skill folder must be named `cultural-adapter` and contain `SKILL.md` at its top level.
+
+### Claude Code: all projects (recommended)
 
 Clone the repository into your personal skills folder:
 
@@ -59,7 +98,17 @@ From the root of your project, clone it into the project's skills folder:
 git clone https://github.com/Sovun/cultural-adapter.git .claude/skills/cultural-adapter
 ```
 
-Restart Claude Code (or start a new session) and the skill is ready. Check that it is listed by asking Claude "what skills do you have?".
+### Alternative: skills CLI
+
+If you have Node.js, the [skills](https://skills.sh) CLI does the same in one command:
+
+```bash
+npx skills add Sovun/cultural-adapter
+```
+
+### Check the installation
+
+Start a new Claude Code session and ask "what skills do you have?". `cultural-adapter` should be in the list. You can also call it directly with `/cultural-adapter`.
 
 ### Updating
 
@@ -84,6 +133,49 @@ Ask in any language. For example:
 - "My German client replied with this. Is it a yes or a no?"
 
 If you don't name a culture, the skill asks which one before it starts.
+
+### Example
+
+**Request:**
+
+> Adapt this for Mr Tanaka, a new partner in Osaka. First contact:
+>
+> *Hi Kenji, we need your API specs by Friday, otherwise we can't start the integration. Let me know ASAP. Thanks, Frank*
+
+**Result (shortened):**
+
+> ## Cultural review: Japan · business email
+>
+> **What I assumed:** reader: new partner, first contact; author: Ukrainian (inferred from the name); goal: get the API specs by Friday.
+>
+> **In short:** The request is clear, but to a Japanese reader it sounds like an order from a stranger. It needs a formal greeting, a short introduction and a softer ask. The Friday deadline stays.
+>
+> **Biggest gaps:** Directness 5 → 1, Formality 1 → 5 (text → reader).
+>
+> | # | Severity | Original | Changed to | Why |
+> |---|---|---|---|---|
+> | 1 | Major | "Hi Kenji" | "Dear Mr Tanaka" | First names are for close relationships. In a first email, surname plus title shows respect. |
+> | 2 | Major | "otherwise we can't start" | "so that we can start the integration on schedule" | A condition like this reads as a threat. Framing it as a shared goal keeps the deadline without pressure. |
+> | 3 | Minor | "ASAP" | removed | Abbreviations and urgency words sound careless in a first contact. The date already sets the timing. |
+>
+> **Lessons for next time**
+> - The first email to a Japanese partner is about the relationship. Introduce yourself and your company before you ask for anything.
+> - Keep deadlines, but give the reason behind them: "so that we can..." works better than "otherwise...".
+>
+> **Tailored version**
+>
+> > *Dear Mr Tanaka,*
+> > 
+> > *My name is Frank, and I lead the integration project on our side. We are very glad to begin working with your team.*
+> >
+> > *Would it be possible to receive your API specifications by Friday, 24 October? This would allow us to start the integration on schedule.*
+> >
+> > *Thank you very much for your support. I look forward to working with you.*
+> >
+> > *Kind regards,*
+> > *Oleksandr*
+
+The skill also works the other way. Paste a message you received and ask what it really means, and it explains the hidden signals and suggests a reply.
 
 ## Repository structure
 

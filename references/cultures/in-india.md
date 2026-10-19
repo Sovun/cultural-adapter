@@ -6,131 +6,140 @@ languages: [hi, en, bn, te, mr, ta, ur, gu, kn, ml]
 region: South Asia
 writing_direction: ltr
 confidence: medium
-last_reviewed: 2026-10-14
-scores: {directness: 2, context: 4, formality: 4, hierarchy: 5, relationship: 4, expressiveness: 4, self_promotion: 3, group: 4, time_precision: 2, argument: 3}
+last_reviewed: 2026-10-19
+scores: {directness: 2, context: 4, formality: 4, hierarchy: 4, relationship: 4, expressiveness: 3, self_promotion: 3, group: 4, time_precision: 2, argument: 4}
 ---
 
 # India
 
 ## In brief
 
-India is a vast, multilingual and multi-religious country, so any profile is a generalization. Business English is widely used and Indian readers often have an extensive vocabulary: simplifying too much can feel patronizing. Hierarchy and respect for seniority shape tone; refusals tend to be indirect ("I'll try my best" can mean no). Relationships and trust come first. Religion, caste, regional identity and relations with Pakistan and China are sensitive; national pride is strong.
+India is vast, multilingual and multi-religious, so any profile is a generalization. English is the main written business language, and Indian readers handle it well: oversimplifying can feel patronizing. Seniority shapes tone, refusals are soft ("I'll try my best" can mean no), and rapport comes before business. Religion, caste, regional identity, maps and relations with Pakistan and China are sensitive. Advertising, consumer interfaces and personal data are increasingly regulated, and the rules apply to foreign companies serving Indian users.
 
 ## Dimension profile
 
 | Dimension | Score | What it means for a text |
 |---|---|---|
-| D1 Directness | 2 | Avoid blunt "no" or public criticism. Indian writers often signal no with "we will see", "I'll do the needful" without commitment, or silence. |
-| D2 Context reliance | 4 | "Yes" can mean "I hear you". Ask open questions ("Which date works?") rather than yes/no ones. Euphemism and idioms can also be taken literally; keep wording clear. |
-| D3 Formality | 4 | "Dear Sir/Madam", "Respected Sir" in government and traditional firms; "Mr/Ms + surname" or first name + "ji" for respect. |
-| D4 Hierarchy | 5 | Decisions sit with the senior-most person. Address seniors first and defer politely. |
-| D5 Relationship first | 4 | Trust, introductions and personal rapport matter. Personal questions (family, background) are a normal part of building relationships. |
-| D6 Expressiveness | 4 | Warm, hospitable and enthusiastic language is common, including in business email. |
-| D7 Self-promotion | 3 | Credentials, degrees and institutional prestige are highlighted. Personal boasting is tempered by modesty norms, but CVs are often detailed and achievement-rich. |
-| D8 Group orientation | 4 | Family and community are central; decisions reflect family and organizational interests. |
-| D9 Time precision | 2 | Flexible timelines ("Indian Stretchable Time" is a self-aware joke); contracts can be seen as frameworks for a relationship. Confirm dates repeatedly in writing. |
-| D10 Argument style | 3 | Elaborate the benefits and context; price and hard terms often come later. |
+| D1 Directness | 2 | No blunt "no" and no public criticism. "We'll see", "I'll see what I can do", "let me check" or silence can all mean no. |
+| D2 Context reliance | 4 | "Yes" can mean "I hear you". Ask open questions ("Which date works?") rather than yes/no ones, and keep wording plain: irony and sarcasm may be read literally. |
+| D3 Formality | 4 | "Dear Mr Sharma" or "Dear Dr Rao" at first contact; first names once the reader uses them. IT and startups switch quickly. |
+| D4 Hierarchy | 4 | The senior-most person decides; greet and name seniors first and allow time for sign-off. Government, PSUs and family firms are steeper; IT and startups are flatter. |
+| D5 Relationship first | 4 | Trust, introductions and rapport matter. A wellbeing line opens the email; personal questions about family are friendly, not intrusive. |
+| D6 Expressiveness | 3 | Business mail is warm and thankful but measured, not effusive. Consumer advertising is much louder. |
+| D7 Self-promotion | 3 | Degrees, institutions and measurable achievements are shown openly; deference ("humbly request") is common toward seniors. Confident claims backed by facts fit best. |
+| D8 Group orientation | 4 | Family and community appeals work; family obligations can override work plans. Individual achievement is still stated on CVs. |
+| D9 Time precision | 2 | Timelines are flexible and soft dates slip. State exact dates with a time zone, confirm in writing, build in slack. |
+| D10 Argument style | 4 | Courtesy, background and benefits before the ask; leading with price feels abrupt. Engineering readers accept summary-first if the frame stays polite. |
 
 ## Voice and tone
 
-- Polite, warm, respectful. Courtesy words ("kindly", "please") are frequent in Indian English.
-- Indian English has its own conventions; do not "correct" them as errors when the audience is Indian, but avoid them when the audience is international:
-  - "Do the needful" (please take the necessary action), "revert" (reply), "prepone" (bring forward), "out of station" (travelling), "same" as a pronoun ("please find the same attached").
-- For international readers, Indian source text often needs fewer politeness formulas and more explicit commitments.
-- Avoid crude humor and swearing.
+- Polite, warm, calm. "Kindly" and "please" are frequent; an angry or impatient tone damages trust and is hard to repair.
+- Indian English has its own vocabulary. Do not "correct" it for Indian readers, but replace it for international ones, and decode it in incoming mail:
+  - "Do the needful" (take the required action), "revert" (reply), "prepone" (bring forward), "out of station" (travelling), "I have a doubt" (I have a question, not distrust), "PFA" (please find attached), "the same" as a pronoun.
+- Indian business-English trainers now call "Respected Sir", "humbly request" and "kindly revert" dated. A foreign writer need not copy this register; neutral polite English lands well.
+- Short, bulleted emails are fine if the greeting and closing stay polite. Indian source text for international readers usually needs fewer formulas and firmer commitments.
+- Hindi formal letters use set phrases ("सविनय निवेदन है कि", I respectfully submit that) that carry into English as "I would like to bring to your kind notice".
 
 ## Addressing people
 
-- Naming conventions vary by region and religion: given name + surname (North), initials + given name (Tamil Nadu: "R. Karthik", where R. is the father's name), Sikh names with Singh/Kaur, Muslim names with different structures. Some people have only one name. Ask or follow the person's own signature.
-- Do not infer caste from surnames, and never ask about caste.
-- Salutations: "Dear Mr Sharma", "Dear Ms Iyer", "Dear Dr Rao". In government and traditional contexts "Respected Sir/Madam". Among colleagues, first name or first name + "ji" (gender-neutral respect suffix).
-- Use "Sir" and "Ma'am" in speech and in many emails to seniors; it is courteous, not servile.
-- Sign-offs: "Regards", "Warm regards", "Thanks and regards".
+- Names vary by region and religion: given name + surname in much of the north; father's initial before the given name in parts of the south ("R. Karthik"); Sikh Singh and Kaur; some people have no surname in the Western sense. Do not assume the last word is a family name; use the full name or follow the signature.
+- Never infer caste from a surname or ask about it.
+- "Dear Mr Sharma", "Dear Ms Iyer", "Dear Dr Rao"; keep Dr and Prof. "Respected Sir/Madam" is normal in government and traditional mail and fine to receive. "Dear Team" or "Dear Hiring Manager" when no name is known.
+- "-ji" after a name (Sunita-ji) is a gender-neutral mark of respect among Indians; from a foreigner it can sound forced, so Mr/Ms is safer.
+- "Sir" and "Ma'am" to seniors, clients and officials are courteous, not servile.
+- Sign-offs: "Regards", "Best regards", "Warm regards", "Thanks and regards".
 
 ## Structuring a message
 
-- Greeting and polite enquiry about well-being ("Hope you are doing well").
-- Context and benefits before figures and hard asks.
-- Make action items explicit and confirm commitments with dates, owners and follow-up points.
-- Expect and allow follow-up calls (WhatsApp is widely used in business).
-- Escalation through the hierarchy is normal when a decision is needed.
+- Greeting and wellbeing line ("Hope you are doing well"), then context and benefits, then figures and the ask.
+- Make actions explicit: deliverable, owner, date and time zone (IST, UTC+5:30). A subject line stating topic and action helps.
+- With a mid-level contact, expect the decision to wait for seniors; write so the message can be forwarded upward.
+- Senior sign-off is normal, but copying someone's superiors on a complaint costs them face. Sensitive matters go by phone or in person.
+- For meetings: agenda in advance, written action points afterwards; reconfirm senior meetings shortly before.
 
 ## Disagreeing, refusing, giving feedback
 
-- Refusals are indirect: "It may be difficult", "Let me check", "I'll try". Repeated "still checking" often means no.
-- Do not reject openly in group settings. Disagreements are handled privately and diplomatically; losing your temper damages trust.
-- Feedback on mistakes should be private and respectful; negative comments about ability or appearance are taken to heart.
-- When adapting Indian source text for direct cultures, make commitments explicit and clarify whether "yes" is agreement.
+- Refusals are soft: "It may be difficult", "Let me check", "I'll try". Repeated "still checking" usually means no; "we'll do our best" may hide doubts, so follow up with a specific question.
+- No rejection or criticism in group threads. Give feedback privately and respectfully, about the work, not the person.
+- Juniors rarely bring bad news upward. Ask for concerns explicitly and make it safe to raise them.
+- Disagree with a senior as a question or suggestion. High-pressure tactics backfire.
+- When adapting Indian text for direct cultures, turn "we will try" into a dated commitment and clarify whether "yes" means agreement.
 
 ## Persuasion, marketing and self-presentation
 
-- Value for money, family benefit, trust, aspiration and social status are strong levers. Celebrity and cricket endorsements are powerful.
-- The Advertising Standards Council of India (ASCI) code and Consumer Protection Act prohibit misleading claims; influencer posts require disclosure. Comparative claims must be substantiated.
-- Maps: depicting India's borders differently from the official Indian position (Jammu and Kashmir, Ladakh, Arunachal Pradesh) causes outrage and can lead to legal action. Use official Indian maps for Indian audiences.
-- Localize beyond Hindi: South India (Tamil, Telugu, Kannada, Malayalam) and Bengal resent the assumption that Hindi is everyone's language. English is the neutral pan-Indian business language.
-- Festivals (Diwali, Holi, Eid, Pongal, Onam, Durga Puja, Christmas) are major marketing moments; respect the religious context.
-- CVs/résumés: Western-style is standard in IT and multinationals. A "biodata" format with photo, date of birth, marital status and father's name is still seen in traditional sectors. Degrees and institutions (IIT, IIM) carry heavy weight.
+- Trust, family benefit, aspiration and status persuade; celebrity and influencer endorsement is widespread, and cricket is a common theme.
+- English signals premium; Hindi and regional languages reach mass and Tier II/III audiences; Hinglish and romanized Hindi work online. Do not assume Hindi reaches everyone, especially in the South and Bengal.
+- ASCI code and Consumer Protection Act: claims must be truthful and substantiated; factual superlatives ("India's No. 1") need proof, obvious hyperbole is allowed. Cite research with source and date. "Free" only if nothing beyond delivery is paid. Comparisons must be factual and not denigrating. No derision by caste, colour, religion, gender or region; avoid gender stereotypes.
+- Influencer posts: a label (Ad, Sponsored, Collaboration...) in the first two lines, in English or the post's language; virtual influencers must say they are not human. Finance and health influencers need registration or qualifications.
+- Interfaces: the CCPA dark-patterns guidelines (2023) ban false urgency, basket sneaking, confirm shaming, forced action, subscription traps, drip pricing, disguised ads, nagging and trick questions. Fake scarcity counters and guilt-trip opt-outs must go. Prices include tax (MRP "inclusive of all taxes").
+- CVs: private sector and MNCs use a 1-2 page resume without photo, date of birth, marital status, religion or caste; government and PSU roles still use a "biodata" with father's name and a signed declaration. Photos persist in IT services. Degrees and marks or CGPA weigh heavily; current and expected CTC and notice period are often listed (salaries in LPA, lakhs per annum).
+- Job ads: the Code on Wages (in force from November 2025, at last check) bars gender discrimination in recruitment and pay. Avoid "male only", age or marital filters.
 
 ## Humor and emphasis
 
-- Light-hearted banter and teasing are enjoyed among colleagues once there is rapport.
-- Cricket and Bollywood references resonate widely.
-- Avoid humor about religion, caste, regional stereotypes, gods and deities, or accents.
+- Keep humour out of first contact; light warmth and cricket talk are safe once there is rapport.
+- No humour about religion, deities, caste, regional stereotypes or accents.
+- Emphasis through bold or structure, not capitals or "!!".
 
 ## Sensitive topics and legal red lines
 
-- Religion: deep diversity (Hindu, Muslim, Sikh, Christian, Buddhist, Jain and others). Hindu-Muslim tensions are politically charged. Never use deities or religious symbols decoratively or humorously (e.g. on shoes, swimwear, toilet products); this has caused major boycotts and police complaints.
-- Cow and beef: beef is taboo for many Hindus and banned in several states; pork is taboo for Muslims. Food marketing must account for vegetarian and religious diets.
-- Caste: discrimination is illegal; do not reference caste in marketing or HR texts.
-- Pakistan, Kashmir and China are highly sensitive. Avoid praising Pakistan or China in content aimed at Indian audiences.
-- Partition and British colonial rule evoke strong feelings.
-- Separatist movements (Khalistan, North-East) and specific political figures should be avoided.
-- The swastika is an auspicious Hindu, Jain and Buddhist symbol in India; do not equate it with Nazism.
-- Criticism of India by foreigners is resented; Indians themselves debate politics vigorously.
-- LGBT: decriminalized in 2018; same-sex marriage not recognized; attitudes mixed.
+- Religion: Hindu, Muslim, Sikh, Christian, Buddhist, Jain and other communities; communal tensions are politically charged. Deliberate, malicious acts outraging religious feelings, in words or images, are punishable under BNS section 299 (the 2024 criminal code that replaced the IPC). Deities or sacred symbols on footwear, underwear, toilet items or in jokes trigger complaints, police cases and withdrawn ads.
+- Food: beef is taboo for many Hindus and cow slaughter is banned in most states; pork is taboo for many Muslims; many Indians are vegetarian and many do not drink. State vegetarian options; packaged food carries a green (veg) or brown (non-veg) mark.
+- Caste: never reference it in marketing or private-sector HR text; public-sector forms may ask caste category because of reservation quotas.
+- Maps and Kashmir: Indian readers and Indian law expect all of Jammu and Kashmir and Ladakh (including areas administered by Pakistan and China) and Arunachal Pradesh shown as Indian. Dotted or "disputed" borders draw official objections, and questioning territorial integrity in print is an offence (Criminal Law Amendment Act 1961). Indian usage says "Pakistan-occupied Kashmir", which Pakistani readers find offensive; for mixed audiences avoid maps or write "Pakistan-administered" and "Indian-administered Kashmir".
+- Pakistan and China: take no side and disparage neither (ASCI also bars ads harming relations with a foreign state). Do not reuse Pakistani content for India or the reverse.
+- Partition, colonial rule, separatist movements and named politicians: avoid unless the brief requires them. Criticism of India from foreigners is resented.
+- Personal data: the DPDP Act requires a clear, standalone notice stating the purpose, consent by affirmative action, the notice available in English or a scheduled Indian language, and verifiable parental consent under 18 with no targeted ads at children. Most duties apply from about May 2027 (check current status); write compliant copy now.
+- AI content: IT Rules amendments from 10 February 2026 require prominent labels on synthetic images, audio and video (at last check).
+- National flag, emblem and names or pictures of national leaders need permission for commercial use.
+- LGBT: decriminalized in 2018; same-sex marriage not recognized; attitudes mixed. Legal items are pointers, not legal advice.
 
 ## Symbols, numbers, colors and imagery
 
-- Saffron, white and green are national colors; saffron also has religious and political (Hindu nationalist) associations.
-- White is associated with mourning in Hindu tradition; red is auspicious (weddings).
-- The left hand is considered unclean; imagery of giving or eating with the left hand looks wrong.
-- Feet and shoes are impure; avoid pointing feet at people, books or sacred objects in imagery.
-- Head wobble and head shakes have multiple meanings in video content.
+- Saffron, white and green are national colours; saffron also has religious and political associations.
+- White flowers and white clothing are linked to mourning; red, yellow and green are festive and auspicious.
+- The swastika is an auspicious Hindu, Jain and Buddhist symbol; do not equate it with Nazism.
+- Left hand unclean; feet and soles impure; the head is sacred. Avoid such gestures, and finger-pointing, in imagery. Namaste is a safe, respectful greeting image.
+- Physical contact between men and women in business imagery can feel inappropriate to conservative viewers.
 
 ## Formats and conventions
 
 | Item | Convention |
 |---|---|
-| Date | DD/MM/YYYY (07/03/2026) or 7 March 2026. |
-| Time | 12-hour clock with am/pm is common (2:30 pm); IST (UTC+5:30) single time zone. |
-| Numbers | **Lakh and crore grouping**: 12,34,567.89. 1 lakh = 100,000; 1 crore = 10 million. "₹5 crore" is standard; give the international equivalent for global readers. |
-| Currency | ₹1,234.50; INR in international documents. |
-| Week starts | Sunday in calendars; Monday to Saturday or Monday to Friday work weeks vary. |
-| Units | Metric; some traditional units in property (sq ft, acres, gaj). |
-| Spelling | British spelling (colour, organisation) with Indian English vocabulary. |
-| Phone | +91 98765 43210 |
-| Address | Includes landmarks ("near Hanuman Temple") and a 6-digit PIN code. |
+| Date | Day first: 19/10/2026, 19 Oct 2026, 19 October 2026. Never month-first. |
+| Time | 12-hour, lowercase am/pm (2:30 pm); 24-hour in transport schedules. IST, UTC+5:30, no daylight saving. |
+| Numbers | Indian grouping: 12,34,567.89. 1 lakh = 1,00,000; 1 crore = 1,00,00,000. Prose uses "₹5 lakh", "₹1,200 crore"; short forms 2.5L, 3Cr. Give the million/billion equivalent for global readers and do not mix systems. |
+| Currency | ₹1,234.50 (no space); "Rs." also common; INR in international documents. |
+| Week starts | Sunday in calendars; offices work Monday-Friday or Monday-Saturday. |
+| Financial year | 1 April to 31 March, written FY 2026-27. |
+| Units | Metric, A4; square feet for property. |
+| Spelling | British (colour, organise, programme); US spelling common in IT. Keep one. |
+| Phone | +91 98765 43210 (10-digit mobile). |
+| Address | Often includes a landmark ("near City Hospital"); 6-digit PIN code. |
+| Holidays | Mostly regional; check the local calendar before deadlines or launches. October to March is the busiest business season. |
 
 ## Variation within the culture
 
-- North and South differ in language, food, naming and business style; the South is often described as more reserved, the North as more expressive.
-- Bengaluru, Hyderabad, Pune and Gurugram tech sectors use flatter, more Western norms.
-- Government (PSU) and family-owned conglomerates are more hierarchical and formal.
-- Urban, English-educated young professionals are very different from rural audiences; consumer content may need Hindi or regional-language versions.
-- The diaspora (US, UK, Gulf) has its own expectations.
+- North and South differ in language, food, naming and customs; avoid regional temperament stereotypes.
+- Bengaluru, Hyderabad, Pune and Gurugram tech firms use flatter, more international norms and first names.
+- Government, PSUs and family conglomerates keep the most traditional formats: biodata, declarations, "Respected Sir", Hindi office letters.
+- Urban English-educated professionals differ from mass audiences; consumer content may need Hindi or regional-language versions.
+- Some women prefer not to shake hands with men. The diaspora (US, UK, Gulf) mixes Indian and host norms.
 
 ## Review checklist
 
-- [ ] Refusals and feedback are indirect and face-saving; no public criticism.
-- [ ] Commitments, dates and owners are explicit and confirmed.
-- [ ] Respectful salutation appropriate to seniority (Mr/Ms/Dr + surname, or "ji").
-- [ ] No religious imagery or deities used decoratively; no beef references for Hindu audiences.
-- [ ] Maps follow India's official borders for Indian audiences.
-- [ ] No positive framing of Pakistan or China in India-facing content; no caste references.
-- [ ] Hindi is not assumed for all Indians; English or regional languages considered.
-- [ ] Numbers in lakh/crore for Indian readers, with conversions for international readers.
-- [ ] Indian English idioms ("do the needful", "revert") adapted for international audiences.
-- [ ] Text does not "simplify" English in a patronizing way.
+- [ ] Refusals and feedback are soft and private; no criticism in group threads or with superiors copied.
+- [ ] Dates, owners, time zone and next steps explicit; "we will try" not taken as confirmation.
+- [ ] Salutation Mr/Ms/Dr + surname (or the full name if unsure); no caste inferred from names.
+- [ ] No religious imagery, deities or jokes; beef and alcohol checked; vegetarian options clear.
+- [ ] Maps and Kashmir wording follow Indian expectations, or the neutral pairing for mixed audiences.
+- [ ] No side taken on Pakistan or China; no country disparaged.
+- [ ] Claims substantiated; "free" and superlatives checked; influencer label in the first two lines.
+- [ ] No fake urgency, pre-ticked add-ons, guilt-trip opt-outs or hidden fees.
+- [ ] Data notices clear, purpose-specific, consent by affirmative action; AI imagery labelled.
+- [ ] Job ads neutral on gender, age and marital status; local biodata details not treated as errors.
+- [ ] Lakh/crore for Indian readers, with conversions for international ones.
+- [ ] Indian English idioms adapted for international audiences; English not patronizingly simplified.
 
 ## Rewrite example
 

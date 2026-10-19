@@ -5,122 +5,138 @@ locale: en-NG
 languages: [en, ha, yo, ig, pcm]
 region: West Africa
 writing_direction: ltr
-confidence: low
-last_reviewed: 2026-10-14
-scores: {directness: 3, context: 3, formality: 4, hierarchy: 5, relationship: 4, expressiveness: 5, self_promotion: 4, group: 4, time_precision: 2, argument: 3}
+confidence: medium
+last_reviewed: 2026-10-19
+scores: {directness: 3, context: 4, formality: 4, hierarchy: 5, relationship: 4, expressiveness: 4, self_promotion: 4, group: 4, time_precision: 2, argument: 3}
 ---
 
 # Nigeria
 
 ## In brief
 
-Nigeria is Africa's most populous country, with over 250 ethnic groups, the Muslim-majority Hausa-Fulani north, the largely Christian Igbo south-east and the religiously mixed Yoruba south-west. English is the official business language, and Nigerian Pidgin is a widespread informal lingua franca. Respect for elders, titles and status is central; greetings are elaborate and religion is visible in everyday language. Communication is expressive, confident and often humorous. Avoid the "scam" and "poverty" stereotypes: they are deeply resented.
+Nigeria is Africa's most populous country, with hundreds of ethnic groups: the largely Muslim Hausa-Fulani north, the Yoruba south-west and the Igbo south-east, with Christianity predominant in the south. English is the language of business and official writing; Nigerian Pidgin is the informal bridge across groups. Age, rank and titles shape address, a greeting comes before business, and religion is visible in everyday language. Speech and ads are lively and humorous, while formal mail stays courteous and measured. Refusals and doubts are often veiled, so confirm specifics in writing. Advertising needs regulator approval and Nigerian talent, consumer and data-protection rules are detailed, and generalising about fraud or corruption is resented.
 
 ## Dimension profile
 
 | Dimension | Score | What it means for a text |
 |---|---|---|
-| D1 Directness | 3 | Disagreement can be expressed openly between peers, but respectfully and tactfully with elders and seniors. |
-| D2 Context reliance | 3 | Relationship and status cues matter; confirm commitments in writing. |
-| D3 Formality | 4 | Titles are important (Dr., Chief, Alhaji/Alhaja, Engr., Barr., Prof., Pastor). "Sir" and "Ma" are common and courteous. |
-| D4 Hierarchy | 5 | Age, title and position determine deference; disagreeing with an elder is acceptable only respectfully. |
-| D5 Relationship first | 4 | Greetings and personal enquiries come before business; networks and introductions matter. |
-| D6 Expressiveness | 5 | Lively, warm, humorous and emphatic communication; prayers and blessings are common in messages. |
-| D7 Self-promotion | 4 | Confidence, success and status are openly displayed and admired. |
-| D8 Group orientation | 4 | Extended family, ethnic group, community and religion. |
-| D9 Time precision | 2 | Flexible time ("African time") in social settings; traffic in Lagos affects schedules. Formal business expects better punctuality but tolerates delays. |
-| D10 Argument style | 3 | Greet and build rapport, then present clearly; negotiation is expected. |
+| D1 Directness | 3 | Peers argue frankly and public commentary is blunt; toward seniors and in refusals, wording is cushioned and framed as a suggestion. |
+| D2 Context reliance | 4 | "Yes" may mean "I heard you" and "we will see" may mean no. Titles, tone and greetings carry meaning; restate owners, amounts and dates in writing. |
+| D3 Formality | 4 | Title plus surname or "Sir/Ma" until invited (Dr, Engr, Barr, Prof, Chief, Alhaji). Full "Thank you" rather than "Thanks". Tech start-ups relax faster. |
+| D4 Hierarchy | 5 | Age and position set deference; titles are stacked for extra respect. Address the decision maker without bypassing your contact; disagree upward privately and as a question. |
+| D5 Relationship first | 4 | A wellbeing line before business; trust, introductions and repeated contact come before contracts. Peer recommendation beats brand claims. |
+| D6 Expressiveness | 4 | Warm and emphatic in speech, chat and ads (humour, proverbs, celebration). Formal business writing is courteous and measured, not gushing. |
+| D7 Self-promotion | 4 | Success and achievement are openly celebrated and CVs are achievement-led, but advertising claims must be provable by law. |
+| D8 Group orientation | 4 | Family, community, faith and national unity resonate; CVs still credit the individual. |
+| D9 Time precision | 2 | Late starts are common outside corporates (traffic, power cuts). Multinationals and banks keep agendas and times; send reminders and reconfirm deadlines. |
+| D10 Argument style | 3 | Greeting and courtesy, then purpose ("I write to..."), then detail. Either order works if signposted; an abrupt ask to a senior reads as disrespectful. |
 
 ## Voice and tone
 
-- Warm, respectful, energetic. Nigerian English has distinct conventions ("Well done" as a greeting to someone working, "I'm coming" meaning "I'll be right back", "flash me" meaning give a missed call, "next tomorrow" meaning the day after tomorrow).
-- Religious expressions ("God bless", "By God's grace", "Insha Allah") are common in both Christian and Muslim contexts and are not necessarily a sign of devoutness.
-- For consumer marketing, Pidgin, humor and Afrobeats/Nollywood references can be powerful; for formal B2B, standard British-style English is expected.
+- Courteous, warm and confident. Nigerian English has its own stable norms, so do not judge it by British or American politeness rules.
+- Soften blunt words: a bare "No", "I need you to..." and "actually" can read as commanding or condescending. Use "I would like...", "Kindly...", "Thank you".
+- Religious phrases ("By God's grace", "God willing", "Insha Allah") are routine across faiths. Understand them when received; a foreign writer should not add faith phrases for a reader of unknown faith.
+- Decode Nigerian English: "Well done" greets someone at work; "sorry" expresses sympathy, not fault; "next tomorrow" is the day after tomorrow; "I'm coming" means "back shortly"; "flash me" means give a missed call; "in arrears" means belated ("Happy New Year in arrears").
+- Formal B2B, contracts and government text use standard English with British spelling. Pidgin, humour and Nollywood or Afrobeats references suit mass-market copy; slogans in simple English reach readers across literacy levels.
+- Do not imitate Pidgin or exclamations ("o", "now") in business writing; from an outsider they sound fake.
 
 ## Addressing people
 
-- Name structures vary by ethnicity and religion: Yoruba, Igbo and Hausa names have different conventions; Muslim names may include "Alhaji" (man who has made the Hajj) or "Alhaja/Hajiya" (woman).
-- Use titles: "Dear Dr. Okafor", "Dear Chief Adebayo", "Dear Alhaji Musa", "Dear Engr. Bello". Do not drop a title someone uses; it is part of their identity.
-- "Sir" and "Ma" are widely used in writing and speech as respect, even from seniors to juniors in some contexts.
-- Do not use first names with elders or senior people unless invited.
-- Sign-offs: "Best regards", "Kind regards", "Warm regards"; religious closings ("God bless") appear in less formal messages.
+- Use titles: "Dear Dr Okafor", "Dear Engr Bello", "Dear Chief Adebayo", "Dear Alhaji Musa" (a man who has made the Hajj; Alhaja or Hajiya for a woman). Arc (architect), Barr (barrister), Prof and Pastor are also used. Never drop a title the person uses.
+- Titles can be stacked or combined with "sir" ("Chief Dr", "Professor sir") for extra respect.
+- "Sir" and "Ma" are default politeness markers, far more frequent than in British English, used in writing ("Good morning sir", "Thank you ma") and spreading among peers.
+- No first names with older or senior people unless invited; a first-name email to a senior can cause open offence. Some tech firms run first-name cultures; mirror the reader.
+- In groups, greet or address the most senior person first.
+- Kinship terms ("aunty", "uncle") and "Oga" (boss) are informal; keep them out of formal writing.
+- In Muslim settings men often greet with "Assalamu alaikum"; a man should not offer a handshake to a Muslim woman unless she does first.
+- Sign-offs: "Best regards", "Kind regards", "Yours faithfully" for unnamed readers.
 
 ## Structuring a message
 
-- Greeting, enquiry about wellbeing (and sometimes family), then business.
-- Clear proposal with benefits; leave room for negotiation.
-- Follow up by phone or WhatsApp; WhatsApp is the dominant business channel.
-- Confirm agreements and payment terms in writing.
+1. Salutation with title and a wellbeing line ("I trust you are well"). One line is enough in corporate mail.
+2. Purpose, then detail and benefits; expect several rounds before agreement.
+3. Restate who does what by when, with amounts and payment terms; a "yes" in a call is not a commitment.
+4. Email is the channel of record; calls and WhatsApp are common for follow-up and reminders.
+5. Avoid flowery openers combined with money or urgency: they resemble scam letters and raise suspicion.
 
 ## Disagreeing, refusing, giving feedback
 
-- With peers, frank discussion is normal. With elders or seniors, disagree respectfully and privately.
-- Public humiliation is deeply resented.
-- Refusals can be polite but clear; offering an alternative helps.
+- With peers, frank debate is normal and not a sign of a broken relationship.
+- With seniors, disagree privately, framed as a question or suggestion, often with "sir/ma".
+- Nigerian refusals are often veiled ("we will see", "it is possible"); probe gently before taking them as yes.
+- When you refuse, avoid a bare "No": give a reason and say what you can do instead.
+- Criticise the problem, never the person, and never in front of others; seniors are expected to correct juniors without humiliation.
+- For a real apology, "I apologise" plus a reason reads more sincere than "sorry".
 
 ## Persuasion, marketing and self-presentation
 
-- Success, aspiration, family, faith, humor, music, football and national pride ("Naija") are strong motivators. Value for money matters given inflation and currency pressure.
-- **ARCON** (Advertising Regulatory Council of Nigeria) requires pre-approval (vetting) of advertisements before exposure, and has restricted the use of foreign models and voice-over artists in Nigerian advertising in favor of Nigerian talent. Unapproved ads can be fined or pulled.
-- Nigeria Data Protection Act (2023) governs personal data.
-- Avoid portraying Nigeria or Africa through poverty, safari, tribal or "aid" clichés; Lagos and Abuja are modern commercial and political capitals.
-- CVs: often detailed, may include date of birth, state of origin and marital status; NYSC (National Youth Service Corps) completion is commonly listed.
+- Strong hooks: family, faith, success, humour, music, Nollywood, football and pride in Nigeria. Affordability matters; aspiration is not spending power.
+- Local faces, accents, settings and peer endorsement persuade; generic global creative lands flat.
+- **ARCON** (Advertising Regulatory Council of Nigeria, ARCON Act 2022): ads aimed at Nigeria need Advertising Standards Panel approval before exposure, except public service announcements, goodwill messages, obituaries and job vacancies. Sponsors and beneficiaries can be liable, not only agencies. A 2025 court ruling upheld vetting of social media and influencer ads, though enforcement is patchy; check current status.
+- Since October 2022, ads for Nigeria must use Nigerian models and voice-over artists; local-content rules also expect production in Nigeria and Nigerian settings.
+- **Consumer law** (FCCPA 2018): claims about a product, its price, previous price or a competitor must not mislead; performance claims need proper tests, with the burden of proof on the advertiser; testimonials need the person's written approval; no false endorsements, pressure tactics or exploiting a buyer's limited literacy. Consumer notices must be in plain language.
+- **Data** (Nigeria Data Protection Act 2023): consent must be provable, silence is not consent and withdrawal must be as easy as opt-in. Anyone may object to direct marketing at any time; honour a direct "please stop", not just the unsubscribe link. Under-18s need parental consent; religion and ethnicity are sensitive data. Maximum fines: greater of N10m or 2% of turnover for major controllers, else N2m or 2% (at last check).
+- CVs: reverse chronological, short summary, degree class, NYSC (National Youth Service Corps) status, 1-2 pages. Date of birth, state of origin, marital status and photo were traditional; private and international employers now prefer them omitted, while public-sector forms may ask for state of origin.
+- Job ads: age caps ("under 30") and "he will..." are common but now criticised as discriminatory; use "the successful candidate" and list only job-related requirements.
 
 ## Humor and emphasis
 
-- Humor is central to Nigerian communication (skits, memes, wordplay); self-confident banter is welcome.
-- Avoid humor about ethnic groups, religions or "419" scams.
-- Exclamation marks and emoji are common in informal and marketing text.
+- Humour, storytelling, skits and proverbs are central and make points in business too.
+- Avoid humour about ethnic groups, religion, corruption or "419" scams; locals may joke about them, outsiders should not.
+- Exclamation marks and emoji suit chat and consumer copy; keep formal mail to one at most.
 
 ## Sensitive topics and legal red lines
 
-- **Stereotypes**: never associate Nigerians with fraud, scams or corruption as a group. "Nigerian prince" jokes are offensive.
-- **Religion and ethnicity**: Christian-Muslim and ethnic tensions (north-south, Fulani herders and farmers, Biafra and the 1967 to 1970 civil war) are highly sensitive. Avoid content that favors one group.
-- **Security**: insurgency in the north-east, banditry and kidnapping are real issues; do not trivialize or use them for marketing.
-- **LGBT**: same-sex relationships are criminalized (up to 14 years; Sharia states in the north have harsher penalties), and the Same Sex Marriage Prohibition Act criminalizes promoting same-sex relationships. LGBT themes cannot be used in Nigerian-facing marketing.
-- **Northern states**: Islamic norms dominate; modesty in imagery, no alcohol, respect for Ramadan.
-- Politics and elections are heated; avoid partisan content.
+- **Stereotypes:** do not link Nigerians to fraud, scams or corruption as a group; "Nigerian prince" jokes offend.
+- **Religion:** insulting religion is an offence in state penal and criminal codes in both north and south; twelve northern states also apply sharia, and blasphemy accusations can trigger violence. Never mock faiths or figures; avoid comparing religions.
+- **Ethnicity and history:** north-south and ethnic tensions, herder-farmer clashes and the 1967-1970 civil war (Biafra) are highly sensitive. Do not favour one group.
+- **Naira:** spraying, stepping on, defacing or selling naira notes is an offence under the CBN Act, and prosecutions continue. Do not show it in ads or social posts, even at weddings.
+- **Security:** insurgency, banditry and kidnapping affect some regions; do not trivialise them or assume uniform conditions in travel or event copy.
+- **LGBT:** same-sex relationships are criminalised and the Same Sex Marriage (Prohibition) Act 2014 also targets their promotion (at last check). Do not use LGBT themes in Nigerian-facing marketing.
+- **North:** modest dress in imagery, no alcohol, Eid and Friday prayers in scheduling.
+- **Online posts:** the Cybercrimes Act still penalises messages likely to cause a breakdown of law and order; avoid alarmist or inciting copy. Stay out of party politics.
 
 ## Symbols, numbers, colors and imagery
 
-- Green and white are national colors; the Super Eagles (national football team) are a unifying symbol.
-- Left hand is considered impolite for giving or receiving, especially with elders.
-- Show respect to elders in imagery (greeting gestures such as bowing, kneeling or prostrating are cultural, not demeaning).
-- Represent ethnic diversity (Hausa, Yoruba, Igbo and others) rather than defaulting to one group.
+- Green and white (national colours) suit Independence Day (1 October) and Democracy Day (12 June); football unites across groups.
+- Give and receive with the right hand; the left is impolite, especially with elders.
+- Bowing, kneeling or prostrating to elders is respectful custom, not demeaning.
+- Mixed casts in Hausa, Yoruba and Igbo dress signal national unity; do not default to one group. Show modern Nigeria, not poverty, safari or "aid" clichés.
 
 ## Formats and conventions
 
 | Item | Convention |
 |---|---|
-| Date | DD/MM/YYYY (07/03/2026). |
-| Time | 12-hour clock in everyday use (2:30pm); WAT (UTC+1). |
+| Date | DD/MM/YYYY (19/10/2026); long 19 October 2026. Never month first. |
+| Time | Locale default 24-hour (14:30); 12-hour "2:30 pm" dominates in everyday text. WAT, UTC+1. |
 | Numbers | 1,234,567.89 |
-| Currency | ₦1,234.50 (naira, NGN). Inflation is high: state price validity. |
+| Currency | Naira: ₦1,500.00 (NGN), no space; "N1,500" and "N30bn" in press. Consumer prices must be in naira, and the displayed price binds; with high inflation, state validity. |
 | Week starts | Monday. |
-| Spelling | British spelling with Nigerian English vocabulary. |
-| Phone | +234 803 123 4567 |
+| Phone | +234 807 654 3210 (local 0807 654 3210). |
+| Other | British spelling (US tolerated in tech). Holidays include Christian and Muslim feasts; Eid dates move yearly. Do not assume constant power, fast data or card payment in product copy. |
 
 ## Variation within the culture
 
-- **Lagos**: fast, commercial, entrepreneurial, tech hub ("Yabacon Valley"), heavy traffic.
-- **Abuja**: political and government capital, more formal.
-- **North** (Kano, Kaduna, Sokoto): Hausa-Fulani, Muslim, conservative; Hausa language widely used.
-- **South-East** (Enugu, Onitsha, Aba): Igbo, predominantly Christian, strong trading and entrepreneurial culture.
-- **South-West** (Ibadan, Lagos region): Yoruba, mixed Christian and Muslim, elaborate respect for elders.
-- **Niger Delta**: oil region with environmental and political grievances.
-- Large diaspora in the UK, US and Canada.
+- **North:** Hausa-Fulani, largely Muslim, conservative; Hausa widely used.
+- **South-West:** Yoruba, Christian and Muslim; strong greeting rituals for elders; Yoruba-English mixing in local media.
+- **South-East:** Igbo, mostly Christian, strong trading tradition.
+- **Lagos and Abuja:** Lagos is the cosmopolitan commercial and tech hub; Abuja is the political capital with government protocol.
+- **Sector and generation:** banks and public bodies keep formal protocol; tech and fintech use first names. Gen Z expects informality, older readers expect titles.
+- **Punctuality:** corporates and multinationals run on time with agendas; elsewhere late starts are tolerated.
 
 ## Review checklist
 
-- [ ] Titles (Dr., Chief, Alhaji, Engr., Barr.) and "Sir/Ma" are used respectfully.
-- [ ] Greeting and wellbeing enquiry precede business.
-- [ ] No scam, corruption, poverty or "Africa as one country" stereotypes.
-- [ ] No content favoring one ethnic or religious group; diversity represented.
-- [ ] No LGBT themes in Nigerian-facing marketing.
-- [ ] Advertising plan accounts for ARCON vetting and local talent requirements.
-- [ ] Northern audiences: modest imagery, no alcohol, Ramadan-aware timing.
-- [ ] Prices in naira with validity dates; dates in DD/MM/YYYY.
-- [ ] Nigerian English idioms are understood correctly when reviewing Nigerian source text.
+- [ ] Titles and "Sir/Ma" used; no first names with seniors until invited.
+- [ ] Greeting and wellbeing line before business; "Thank you", "Kindly", no bare "No".
+- [ ] Commitments, amounts and dates restated in writing; veiled refusals checked.
+- [ ] No fraud, corruption, poverty or "Africa as one country" stereotypes; diversity shown.
+- [ ] No humour about religion or ethnicity; no naira spraying or stepping imagery.
+- [ ] Ads have ARCON approval, Nigerian talent and settings.
+- [ ] Claims provable, testimonials approved in writing, no pressure tactics.
+- [ ] Marketing consent provable; "stop" requests honoured; no sensitive data.
+- [ ] No LGBT themes; northern audiences get modest imagery and no alcohol.
+- [ ] Job ads free of age caps and gendered pronouns.
+- [ ] Prices in naira with validity; dates DD/MM/YYYY; British spelling.
 
 ## Rewrite example
 
@@ -132,8 +148,8 @@ Nigeria is Africa's most populous country, with over 250 ethnic groups, the Musl
 
 > Dear Alhaji Musa,
 >
-> Good morning, sir. I trust you and your family are well. Thank you again for your time during our meeting in Abuja. As discussed, I have attached the final contract for your review. We would be grateful if it could be signed by Friday so our team can begin delivery next week. Please let me know if anything needs clarification; I am happy to call at your convenience.
+> Good morning, sir. I trust you are well. Thank you again for your time during our meeting in Abuja. As discussed, I have attached the final contract for your review. We would be grateful if it could be signed by Friday 23 October so our team can begin delivery the following week. Kindly let me know if any clause needs clarification; I am happy to call at your convenience.
 >
-> Warm regards,
+> Kind regards,
 
-**Why:** The title "Alhaji", the respectful "sir", the greeting and wellbeing enquiry are expected with a senior person. The request still has a clear deadline.
+**Why:** The title "Alhaji", "sir" and the wellbeing line are expected with a senior person, and "Thank you" and "Kindly" replace the clipped "Thanks". The request keeps a clear, dated deadline with a reason, and the offer to call leaves room for questions without pressure.
