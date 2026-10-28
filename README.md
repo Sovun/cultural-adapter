@@ -13,7 +13,7 @@ A [Claude skill](https://platform.claude.com/docs/en/agents-and-tools/agent-skil
 - **Several cultures at once.** Checks one message against each reader's culture. If nothing conflicts, it writes one version on the generic international profile; if something does, it explains the conflict and lets you choose separate versions or a compromise.
 - **Asks instead of guessing.** When the right wording depends on your decision (can you commit to that date? what can you offer instead?), the skill asks with ready-made options instead of leaving placeholders.
 - **Contact memory.** Keeps a short note about each person you communicate with, so it doesn't ask the same things twice and adapts to the real person. See [Contact memory](#contact-memory).
-- **50 cultures plus a generic profile.** See [Supported cultures](#supported-cultures). For any other culture, the skill offers the generic international profile or the nearest supported one.
+- **51 cultures plus a generic profile.** See [Supported cultures](#supported-cultures). For any other culture, the skill offers the generic international profile or the nearest supported one.
 - **Light on context.** Only `SKILL.md` loads when the skill starts. A culture profile is read only after the target culture is known.
 
 ## Supported cultures
@@ -25,6 +25,7 @@ A [Claude skill](https://platform.claude.com/docs/en/agents-and-tools/agent-skil
 | Austria | de-AT | Europe |
 | Belgium | nl-BE | Europe |
 | Brazil | pt-BR | Americas |
+| Bulgaria | bg-BG | Europe |
 | Canada | en-CA | Americas |
 | Chile | es-CL | Americas |
 | China (mainland) | zh-CN | Asia-Pacific |

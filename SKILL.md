@@ -1,6 +1,6 @@
 ---
 name: cultural-adapter
-description: Review any text (email, chat message, presentation, proposal, marketing copy, CV, job ad, feedback, UI copy, social post) and tailor it for readers from another country or culture, explaining what changed and why. Also decodes messages from abroad, prepares the user for calls, meetings and negotiations with foreign counterparts, adapts one message for a mixed multi-country audience, and remembers key facts about recurring contacts. Covers 50 cultures in Europe, the Americas, Asia-Pacific, the Middle East and Africa, plus a generic international profile. Use whenever the user wants to adapt, localize, culturally check, soften or sharpen a text for a foreign reader, asks how something will land abroad, prepares for a call or meeting with a foreign client, partner or colleague, or is puzzled by what someone abroad wrote or did, even if they never say "culture". Works in any language ("адаптуй лист для японців", "подготовь к созвону с японским клиентом", "is this OK for a Saudi audience?").
+description: Review any text (email, chat message, presentation, proposal, marketing copy, CV, job ad, feedback, UI copy, social post) and tailor it for readers from another country or culture, explaining what changed and why. Also decodes messages from abroad, prepares the user for calls, meetings and negotiations with foreign counterparts, adapts one message for a mixed multi-country audience, and remembers key facts about recurring contacts. Covers 51 cultures in Europe, the Americas, Asia-Pacific, the Middle East and Africa, plus a generic international profile. Use whenever the user wants to adapt, localize, culturally check, soften or sharpen a text for a foreign reader, asks how something will land abroad, prepares for a call or meeting with a foreign client, partner or colleague, or is puzzled by what someone abroad wrote or did, even if they never say "culture". Works in any language ("адаптуй лист для японців", "подготовь к созвону с японским клиентом", "is this OK for a Saudi audience?").
 ---
 
 # Cultural Adapter
@@ -41,6 +41,7 @@ The knowledge base is large (one profile per culture, about 3,000 tokens each). 
 | ro | Romania | `references/cultures/ro-romania.md` |
 | ua | Ukraine | `references/cultures/ua-ukraine.md` |
 | gr | Greece | `references/cultures/gr-greece.md` |
+| bg | Bulgaria | `references/cultures/bg-bulgaria.md` |
 | | **Americas** | |
 | us | United States | `references/cultures/us-united-states.md` |
 | ca | Canada | `references/cultures/ca-canada.md` |
@@ -319,7 +320,7 @@ Suggestions for cultures without a profile. Always explain to the user why the s
 | Slovakia | Czechia | Slovak language, never Czech copy; slightly more formal and religious |
 | Hungary | Czechia or Austria | Hungarian name order (family name first); different history and sensitivities |
 | Moldova | Romania | The Romania profile has notes on Moldova (ro-MD); separate state with its own politics, many readers also use Russian; never call it Romania |
-| Slovenia, Croatia, Serbia, Bulgaria | Austria (Slovenia, Croatia) or Romania, Greece | Weak approximation; check languages, scripts and post-Yugoslav sensitivities |
+| Slovenia, Croatia, Serbia | Austria (Slovenia, Croatia) or Bulgaria, Greece (Serbia) | Weak approximation; check languages, scripts and post-Yugoslav sensitivities |
 | Cyprus (Greek Cypriot) | Greece | Island division is a red line; British-influenced formats and law |
 | New Zealand | Australia | More consensus-oriented; Māori language and Treaty of Waitangi sensitivities |
 | Peru, Ecuador, Bolivia, Venezuela | Colombia or Chile | Each country differs in formality and vocabulary; check local Spanish |

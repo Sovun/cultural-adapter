@@ -11,6 +11,7 @@ Generated from each profile's frontmatter. Do not edit by hand: run `scripts/bui
 | [Austria](at-austria.md) | de-AT | Central Europe | ltr | medium | 4 | 2 | 4 | 4 | 3 | 2 | 2 | 3 | 4 | 4 |
 | [Australia](au-australia.md) | en-AU | Oceania | ltr | medium | 3 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 4 | 2 |
 | [Belgium](be-belgium.md) | nl-BE | Western Europe | ltr | medium | 3 | 3 | 4 | 3 | 3 | 2 | 2 | 2 | 4 | 3 |
+| [Bulgaria](bg-bulgaria.md) | bg-BG | Southeast Europe | ltr | medium | 3 | 3 | 4 | 4 | 4 | 2 | 2 | 3 | 3 | 3 |
 | [Brazil](br-brazil.md) | pt-BR | South America | ltr | high | 2 | 4 | 3 | 4 | 4 | 4 | 3 | 4 | 2 | 3 |
 | [Canada](ca-canada.md) | en-CA | North America | ltr | medium | 3 | 2 | 2 | 2 | 2 | 2 | 3 | 2 | 4 | 2 |
 | [Switzerland](ch-switzerland.md) | de-CH | Central Europe | ltr | medium | 3 | 2 | 4 | 2 | 2 | 2 | 2 | 3 | 5 | 3 |
